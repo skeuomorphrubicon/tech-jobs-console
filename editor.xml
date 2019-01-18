@@ -2,4 +2,13 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="autoCloseTag" value="false" />
+    <option name="automaticallyInsertClosingTag" value="false" />
+    <option name="syncTagEditing" value="false" />
+  </component>
 </application>
